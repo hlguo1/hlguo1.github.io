@@ -16,5 +16,5 @@ At Meta, I engineer distributed AI systems serving millions, from integrating LL
 
 ## Contact
 - Email: g.haolin@columbia.edu
-- GitHub: [garyguo123456789](https://github.com/garyguo123456789)
+- GitHub: [hlguo1](https://github.com/hlguo1)
 - LinkedIn: [linkedin.com/in/emery-guo-8a49b9176](https://www.linkedin.com/in/emery-guo-8a49b9176/)

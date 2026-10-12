@@ -13,10 +13,10 @@ title                    : "Haolin Guo | AI Systems Engineer"
 title_separator          : "-"
 name                     : &name "Haolin Guo"
 description              : &description "AI systems and machine learning engineer; open-source and applied research leadership."   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://garyguo123456789.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://hlguo1.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on GitHub then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "garyguo123456789/garyguo123456789.github.io"
+repository               : "hlguo1/hlguo1.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -29,7 +29,7 @@ author:
   bio              : "Software engineer at Meta in Applied AI & CRM Systems; open-source ML infrastructure leader."
   location         : "San Francisco Bay Area"
   employer         : "Meta Platforms, Inc."
-  uri              : "https://garyguo123456789.github.io"
+  uri              : "https://hlguo1.github.io"
   email            : "g.haolin@columbia.edu" 
 
   # Academic websites
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "garyguo123456789"
+  github           : "hlguo1"
   linkedin         : "emery-guo-8a49b9176"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
