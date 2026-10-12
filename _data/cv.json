@@ -1,16 +1,16 @@
 {
   "basics": {
     "name": "Haolin Guo",
-    "label": "AI Systems Engineer | Applied Machine Learning & Distributed Systems",
+    "label": "Builder of Reliable AI/ML Systems | Meta AI Post-Training",
     "email": "g.haolin@columbia.edu",
     "website": "https://hlguo1.github.io",
-    "summary": "Software engineer at Meta Platforms building scalable AI systems that connect machine learning research with production products.",
+    "summary": "I build reliable AI/ML systems — outputs that can be trusted where stakes are real. At Meta AI (Menlo Park) I work on verifiable post-training: synthetic data pipelines, RL data for AI for Science, and evaluation frameworks for coding and data quality. My research grounds ML in physical measurement (131 citations, h-index 5); my open-source platform Omni-One brings the same auditability to small businesses (82 stars). B.A. in Computer Science, Columbia University.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "New York",
+      "city": "Menlo Park",
       "countryCode": "US",
-      "region": "NY"
+      "region": "CA"
     },
     "profiles": [
       {
@@ -37,12 +37,12 @@
       "position": "Software Engineer",
       "startDate": "2026-02-01",
       "endDate": "Present",
-      "summary": "Key contributor to Meta AI's flagship models: Muse Spark 1.1, 1.2, 1.3, and Muse Glimmer.",
+      "summary": "Key contributor to Meta AI's flagship models (Muse Spark 1.1, 1.2, 1.3, Muse Glimmer); making post-training data verifiable and measurable.",
       "highlights": [
-        "Lead the development of a Recursive Self-Improvement pipeline for LLM post-training synthetic data generation with an emphasis on improving Meta AI's long-horizon coding capabilities.",
-        "Develop RL data generation methodologies for training LLMs on AI for Science (AI4S) tasks, targeting natural science and engineering research capabilities.",
-        "Build robust evaluation frameworks for measuring LLM capabilities across various coding domains.",
-        "Design frameworks to systematically measure and evaluate LLM post-training data quality."
+        "Lead the development of a Recursive Self-Improvement pipeline for verifiable LLM post-training synthetic data generation, improving long-horizon coding capabilities.",
+        "Develop RL data generation methodologies grounding LLMs in AI for Science (AI4S) reasoning across the natural sciences and engineering.",
+        "Build robust evaluation frameworks measuring LLM coding capabilities so improvements are earned and measurable.",
+        "Design frameworks to systematically measure and audit LLM post-training data quality."
       ]
     },
     {
@@ -208,6 +208,20 @@
       "releaseDate": "2025-01-01",
       "website": "",
       "summary": ""
+    },
+    {
+      "name": "An improved probability efficient point method based on outer approximation for unit commitment of multi-area power systems",
+      "publisher": "Results in Engineering",
+      "releaseDate": "2025-11-01",
+      "website": "",
+      "summary": "J Li, H Guo, W Yang, Y Xie, H Zeng, J Li."
+    },
+    {
+      "name": "Atmosphere-dependent ablation behavior and mechanism in nanosecond laser processing of CFRP composites",
+      "publisher": "Composites Part A: Applied Science and Manufacturing",
+      "releaseDate": "2026-06-01",
+      "website": "",
+      "summary": "H An, Y Qian, H Guo, P Xu, H Huang, J Yan. Vol. 210, 110040."
     }
   ],
   "presentations": [
@@ -241,5 +255,13 @@
     }
   ],
   "teaching": [],
-  "portfolio": []
+  "portfolio": [
+    {
+      "name": "Omni-One — Proactive AI Platform for Business Operations",
+      "category": "open source",
+      "date": "2026-01-01",
+      "url": "https://github.com/hlguo1/omni-one",
+      "description": "Creator and maintainer. Same reliability thesis for businesses that cannot afford errors: free, offline, cited Daily Close; every dollar cites file:line; hash-chained audit; no phantom tasks. 100k+ LOC, 1350+ tests, 17 MCP tools. 82 stars, 10 forks, adopted by SMB e-commerce."
+    }
+  ]
 }

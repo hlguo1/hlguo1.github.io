@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Haolin Guo | AI Systems Engineer"
+title                    : "Haolin Guo | Reliable AI/ML Systems"
 title_separator          : "-"
 name                     : &name "Haolin Guo"
-description              : &description "AI systems and machine learning engineer; open-source and applied research leadership."   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "I build reliable AI/ML systems — verifiable post-training, measurement-grounded science, and auditable business AI."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://hlguo1.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on GitHub then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,7 +26,7 @@ author:
   avatar           : "photo1.png"
   name             : "Haolin Guo"
   pronouns         : # example: "she/her"  
-  bio              : "Software engineer at Meta in Applied AI & CRM Systems; open-source ML infrastructure leader."
+  bio              : "I build reliable AI/ML systems — Meta AI post-training, AI for Science, auditable business AI."
   location         : "San Francisco Bay Area"
   employer         : "Meta Platforms, Inc."
   uri              : "https://hlguo1.github.io"
