@@ -12,7 +12,7 @@ I'm a software engineer at Meta Platforms, bridging AI research with scalable in
 
 My research focuses on practical AI applications: from computer vision for defect detection in manufacturing (welding, PCBs) and material discovery for environmental challenges, to physics-informed neural networks for energy optimization and machine learning for quality evaluation. This work, published in leading journals, demonstrates AI's potential to drive innovation in traditional sectors.
 
-At Meta, I engineer distributed AI systems serving millions, from integrating LLMs into messaging platforms to building enterprise CRM infrastructure. I also contribute to the AI community through Omni One—a high-performance data synthesis framework—and leadership in global ML standards.
+At Meta in Menlo Park, I'm a Software Engineer on Meta AI, contributing to flagship models including Muse Spark 1.1, 1.2, 1.3, and Muse Glimmer. I lead recursive self-improvement pipelines for LLM post-training synthetic data with a focus on long-horizon coding, develop RL data generation for AI for Science (AI4S), and build evaluation frameworks for coding capabilities and post-training data quality. I also contribute to the AI community through Omni One—a high-performance data synthesis framework—and leadership in global ML standards.
 
 ## Contact
 - Email: g.haolin@columbia.edu

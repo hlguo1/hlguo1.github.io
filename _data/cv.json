@@ -32,13 +32,17 @@
   },
   "work": [
     {
-      "company": "Meta Platforms, Inc.",
-      "position": "Software Engineer (Applied AI & CRM Systems)",
+      "company": "Meta Platforms, Inc. — Menlo Park, CA",
+      "location": "Menlo Park, CA",
+      "position": "Software Engineer",
       "startDate": "2026-02-01",
-      "endDate": "",
-      "summary": "Architecting Generative AI features in global CRM to enhance digital economic vitality across millions of enterprises.",
+      "endDate": "Present",
+      "summary": "Key contributor to Meta AI's flagship models: Muse Spark 1.1, 1.2, 1.3, and Muse Glimmer.",
       "highlights": [
-        "Engineering distributed backend services for high-concurrency AI inference."
+        "Lead the development of a Recursive Self-Improvement pipeline for LLM post-training synthetic data generation with an emphasis on improving Meta AI's long-horizon coding capabilities.",
+        "Develop RL data generation methodologies for training LLMs on AI for Science (AI4S) tasks, targeting natural science and engineering research capabilities.",
+        "Build robust evaluation frameworks for measuring LLM capabilities across various coding domains.",
+        "Design frameworks to systematically measure and evaluate LLM post-training data quality."
       ]
     },
     {
