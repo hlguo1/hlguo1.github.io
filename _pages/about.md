@@ -38,13 +38,13 @@ Full details are available on my [CV](/cv-json/).
 
 ## Selected Publications: Reliability in the Lab
 
-My scientific-discovery thread asks the same reliability question in the physical world: can ML be trusted where measurement is everything? As of October 2026, this work has received **131 citations** ([Google Scholar](https://scholar.google.com/citations?user=U6IoAjQAAAAJ&hl=en); h-index 5, i10-index 3):
+My scientific-discovery thread asks the same reliability question in the physical world: can ML be trusted where measurement is everything? Representative publications include:
 
-1. Y. Yang, Y. He, **H. Guo**, Z. Chen, L. Zhang. "Semantic segmentation supervised deep-learning algorithm for welding-defect detection of new energy batteries." *Neural Computing and Applications* 34(22), 2022. — 56 citations. *Grounded vision for manufacturing defects that cannot be missed.*
-2. L. Yuan, **H. Guo**, et al. "Machine-Learning-Assisted Material Discovery of Pyridine-Based Polymers for Efficient Removal of ReO₄⁻." *Environmental Science & Technology* 58(34), 2024. — 24 citations. *ML-guided discovery validated by experiment.*
-3. H. An, Y. Qian, X. Xu, **H. Guo**, et al. "Manipulating Wetting State of CFRP via One-Step Laser Micro/Nanostructuring." *Small* 21(44), 2025. — 12 citations.
-4. **H. Guo**, Y. Qian, H. An, et al. "Laser-Induced Visualization of Latent Fingerprints on Metal Surfaces." *Small* 21(38), 2025. — 8 citations.
-5. P. Xu, Y. Qian, H. An, **H. Guo**, et al. "Evolution of surface and subsurface properties of Zr-4 alloy under laser heat treatment and laser gas nitriding." *Journal of Materials Processing Technology* 339, 2025. — 5 citations.
+1. Y. Yang, Y. He, **H. Guo**, Z. Chen, L. Zhang. "Semantic segmentation supervised deep-learning algorithm for welding-defect detection of new energy batteries." *Neural Computing and Applications* 34(22), 2022. *Grounded vision for manufacturing defects that cannot be missed.*
+2. L. Yuan, **H. Guo**, et al. "Machine-Learning-Assisted Material Discovery of Pyridine-Based Polymers for Efficient Removal of ReO₄⁻." *Environmental Science & Technology* 58(34), 2024. *ML-guided discovery validated by experiment.*
+3. H. An, Y. Qian, X. Xu, **H. Guo**, et al. "Manipulating Wetting State of CFRP via One-Step Laser Micro/Nanostructuring." *Small* 21(44), 2025.
+4. **H. Guo**, Y. Qian, H. An, et al. "Laser-Induced Visualization of Latent Fingerprints on Metal Surfaces." *Small* 21(38), 2025.
+5. P. Xu, Y. Qian, H. An, **H. Guo**, et al. "Evolution of surface and subsurface properties of Zr-4 alloy under laser heat treatment and laser gas nitriding." *Journal of Materials Processing Technology* 339, 2025.
 
 See the complete list on the [Publications](/publications/) page and on [Google Scholar](https://scholar.google.com/citations?user=U6IoAjQAAAAJ&hl=en).
 
